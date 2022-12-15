@@ -4,5 +4,5 @@
 🤩 I'm now looking for some job opportunities and keep on learning!
 📫 How to reach me:
 rom.delimal@gmail.com
-linkedin.com/in/romain-delimal
-troopl.com/romprd
+https://www.linkedin.com/in/romain-delimal/
+https://troopl.com/romprd
