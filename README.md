@@ -8,10 +8,10 @@
 
 <div align="center" style="margin: 50px">
 <a href="https://github.com/romprd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" height="30" />
 </a>
 <a href="https://linkedin.com/in/romain-delimal" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" height="30" />
 </a>
 </div>
 
@@ -36,7 +36,7 @@
 #
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=romprd&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=romprd&&style=flat-square" align="center" height="30" />
 </div>
 
 <br/>
