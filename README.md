@@ -1,5 +1,5 @@
 # <div align="center">Developer Full Stack / RubyOnRails</div>
-*** <div align="center">📫 How to reach me:</div><br>***
+### <div align="center">📫 How to reach me:</div><br>
 - ✉️ email: rom.delimal@gmail.com
 <p align="center">LinkedIn: https://www.linkedin.com/in/romain-delimal/<br></p>
 - 💻 Portfolio: https://romprd.github.io/<br>
