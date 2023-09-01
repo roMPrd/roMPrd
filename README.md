@@ -2,7 +2,7 @@
 ### <div align="center">📫 How to reach me:</div><br>
 - ✉️ email: rom.delimal@gmail.com
 
-- 💻 Portfolio: https://romprd.github.io/
+- 💻 Portfolio: https://romprd.github.io/portfolio2023/
 
 - Buisness Card: https://romprd.github.io/react-buisness-card/
 
